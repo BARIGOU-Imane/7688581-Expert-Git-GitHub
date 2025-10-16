@@ -32,7 +32,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Déploiments
+## Déploiment
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -53,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O. C**
+* **O.C.**
 
 ## License
 
